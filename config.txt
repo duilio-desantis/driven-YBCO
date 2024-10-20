@@ -1,0 +1,10 @@
+[parameters]
+L: 100.		# System length
+Tscale: 110	# Simulation time
+deltaX: 0.1	# Space grid step
+deltaT: 0.02	# Time grid step
+wX: 1		# Determines the portion of the array saved to file (space resolution)
+wT: 5		# Determines the portion of the array saved to file (time resolution)
+q: 0.01		# Boundary magnetic field
+damp: 0.5	# Damping coefficient
+V0: 4.		# Driving amplitude
